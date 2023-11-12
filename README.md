@@ -34,7 +34,7 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 CSS and HTML was  provided for this project.
-I generated most part of the JavaScript with Artificial inteligence.
+I generated some part of the JavaScript with Xpert Learning Assitance,  Artificial inteligence approved by the learning instittution.
 
 Here is a link to the deployed website:  https://obi1knube.github.io/Work-Day-Scheduler-Obiora/
 Here is a link to the source code: https://github.com/Obi1knube/Work-Day-Scheduler-Obiora
