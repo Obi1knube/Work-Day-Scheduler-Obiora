@@ -90,5 +90,5 @@ $(function () {
 
   currentDayEl.text(currentDate);
 
-  //his line sets the text content of the currentDayEl element to the currentDate, which represents the current date and time.
+  //this line sets the text content of the currentDayEl element to the currentDate, which represents the current date and time.
 });
